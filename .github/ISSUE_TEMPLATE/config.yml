@@ -1,0 +1,10 @@
+## Block people from creating blank issues.
+blank_issues_enabled: false
+
+contact_links:
+	- name: Kaizoku Developers' Lounge
+          url: https://t.me/OnePunchDev
+          about: Discuss about bot development in real-time.
+        - name: Report security issues here
+          url: https://github.com/AnimeKaizoku/SaitamaRobot/blob/shiken/SECURITY.md
+          about: The GitHub issue tracker is not for reporting security issues. Please take time reading our security policy.
