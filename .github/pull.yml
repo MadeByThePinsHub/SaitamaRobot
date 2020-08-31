@@ -1,0 +1,8 @@
+version: "1"
+rules:
+  - base: "shiken"
+    upstream: "AnimeKaizoku:shiken"
+    mergeMethod: "merge"
+  - base: "master"
+    upstream: "AnimeKaizoku:master"
+    mergeMethod: "merge"
